@@ -1,3 +1,6 @@
-First string
+
 Second string
 Third and fourth)
+
+Additional 1 line
+Additional 2 line
